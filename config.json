@@ -1,0 +1,30 @@
+{
+    "bot": {
+        "token": "",
+        "prefix": "!"
+    },
+
+    "mensagem": {
+        "sem_permissao": "Você não tem permissão para usar esse comando.",
+        "sem_permissao_bot": "Eu não tenho permissão para executar essa ação!",
+        "mencionar_canal": "Mencione um canal de texto"
+    },
+
+    "ticket": {
+        "label": "Abrir ticket",
+        "description": "Abre um ticket para ter contato com o suporte",
+        "value": "ticket-value-option",
+        "placeholder": "Clique aqui para selecionar a categoria do ticket"
+    },
+
+    "ticket_embed": {
+        "color": "BLUE",
+        "title": "Solicitar suporte",
+        "description": "Aqui você pode solicitar um suporte para poder fazer **dúvidas**, **compras**, **reportar-bug**, **outros** e etc.\n\n> Lembrando! o nosso horario de atendimento são das ``SEG às SEX 08:00 - 22:00`` e não trabalhamos nos fins de semanas."
+    },
+
+    "ticket_info": {
+        "parent": "939720892236304394",
+        "type": "TEXT"
+    }
+}
